@@ -1,0 +1,20 @@
+/* 
+ * CSS for shady puzzle
+ * Created by - Yogesh Kumar
+ * Version - 0.1
+ * Date - 01-April-2013
+ * browser - IE9+, Firefox7.0+, Chrome14+, Safari4.0+, Opera11+
+ * file - layout.css
+ */
+
+.content-wrapper {
+	border: 1px solid #E0E0E0;
+	background-color: #FAFAFA;
+}
+
+#game {
+	width: 99%;
+	max-width: 1190px;
+	margin: 0 auto;
+	padding: 0;
+}
