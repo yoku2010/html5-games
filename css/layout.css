@@ -8,13 +8,15 @@
  */
 
 .content-wrapper {
-	border: 1px solid #E0E0E0;
-	background-color: #FAFAFA;
+    border: 1px solid #E0E0E0;
+    background-color: #FAFAFA;
 }
-
 #game {
-	width: 99%;
-	max-width: 1190px;
-	margin: 0 auto;
-	padding: 0;
+    width: 99%;
+    max-width: 1190px;
+    margin: 0 auto;
+    padding: 0;
+}
+ul li > a.active {
+    background-color: #019AD5;
 }
